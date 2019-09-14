@@ -2,4 +2,5 @@
 # sics
 연세대학교 제 1회 창업열정대회 안내 홈페이지
 =======
-## Copyright and License
+아래 링크에서 홈페이지를 확인할 수 있습니다.
+[연세대학교 1회 창업열정대회](http://cs.yonsei.ac.kr/sics/1st)
